@@ -1,0 +1,12 @@
+.dish {
+  background: red;
+  height:40px;
+  width:100%;
+align-items: flex-start;
+}
+.title{
+  background: violet;
+  height: 40px;
+  width:100%;
+  align-items: flex-start;
+}
